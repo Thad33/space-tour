@@ -1,0 +1,9 @@
+
+body{
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url('./image/background-home-desktop.jpg');
+}
+.App{
+  color: white;
+}
